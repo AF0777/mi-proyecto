@@ -1,0 +1,4 @@
+* 655a8f5 feat: agregar funcion para calcular area de un triangulo
+* dd0f0d4 feat: agregar funcion para calcular area de un rectangulo
+* e621558 docs: agregar fecha al archivo de presentación
+* 559f277 feat: agregar presentación del estudiante
