@@ -1,0 +1,4 @@
+Nombre: Andres Felipe Velez
+Programa: Ingeniería de Sistemas
+Lenguaje elegido: Java
+Descripción del proyecto: Un programa en Java con funciones para calcular áreas de figuras geométricas.
