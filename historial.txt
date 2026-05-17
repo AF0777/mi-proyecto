@@ -1,3 +1,5 @@
+* a30154f docs: agregar README del proyecto
+* 92134c4 docs: agregar historial del repositorio
 * 655a8f5 feat: agregar funcion para calcular area de un triangulo
 * dd0f0d4 feat: agregar funcion para calcular area de un rectangulo
 * e621558 docs: agregar fecha al archivo de presentación
